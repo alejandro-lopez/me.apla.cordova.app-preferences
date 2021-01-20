@@ -38,7 +38,7 @@
 	</platform>
 
 	<!-- ios -->
-	<platform name="ios">
+	<!--<platform name="ios">
 		<config-file target="config.xml" parent="/*">
 			<feature name="AppPreferences">
 				<param name="ios-package" value="AppPreferences"/>
@@ -48,7 +48,7 @@
 		<header-file src="src/ios/AppPreferences.h" />
 		<source-file src="src/ios/AppPreferences.m" />
 
-	</platform>
+	</platform>-->
 
 	<!-- osx -->
 	<platform name="osx">
